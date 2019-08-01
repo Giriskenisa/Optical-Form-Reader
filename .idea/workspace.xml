@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cf72f6e-9a23-41b7-83d4-6b3b77d59c93" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#2365#2731#0" />
+                <element signature="e#3388#3743#0" />
+                <element signature="e#3752#4739#0" />
+                <element signature="e#4778#5312#0" />
+                <element signature="e#5349#5624#0" />
+                <element signature="e#5666#5958#0" />
+                <element signature="e#6530#6816#0" />
+                <element signature="e#6848#7187#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cv2</find>
+      <find>[&quot;B&quot;, &quot;E&quot;]</find>
+      <find>pri</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Untitled-1.py" />
+        <option value="$PROJECT_DIR$/cevaplar.txt" />
+        <option value="$PROJECT_DIR$/B.txt" />
+        <option value="$PROJECT_DIR$/sonuclar.txt" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="211" />
+    <option name="y" value="51" />
+    <option name="width" value="1332" />
+    <option name="height" value="986" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="staj_proje_son" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staj_proje_son" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staj_proje_son" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staj_proje_son" type="462c0819:PsiDirectoryNode" />
+              <item name="cevapkagidi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staj_proje_son" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staj_proje_son" type="462c0819:PsiDirectoryNode" />
+              <item name="ogrenciler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\giris\Desktop\staj_proje_son\ogrenciler" />
+      <recent name="C:\Users\giris\Desktop\staj_proje_son\cevapkagidi" />
+      <recent name="C:\Users\giris\Desktop\staj_proje_son" />
+      <recent name="C:\Users\giris\Desktop\staj_proje_son\cevaplar" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\giris\Desktop\staj_proje_son\ogrenciler" />
+      <recent name="C:\Users\giris\Desktop\staj_proje_son\cevapkagidi" />
+      <recent name="C:\Users\giris\Desktop\staj_proje_son" />
+      <recent name="C:\Users\giris\Desktop\staj_proje_son\venv" />
+      <recent name="C:\Users\giris\Desktop\staj_proje_son\siklar" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="staj_proje_son" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\giris\Desktop\staj_proje_son\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf72f6e-9a23-41b7-83d4-6b3b77d59c93" name="Default Changelist" comment="" />
+      <created>1561023351633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561023351633</updated>
+      <workItem from="1561023366328" duration="12595000" />
+      <workItem from="1561037520262" duration="455000" />
+      <workItem from="1561062586891" duration="1000" />
+      <workItem from="1561098550955" duration="23863000" />
+      <workItem from="1561364615670" duration="7018000" />
+      <workItem from="1561371760757" duration="8975000" />
+      <workItem from="1561458483202" duration="10368000" />
+      <workItem from="1561489531232" duration="328000" />
+      <workItem from="1561535484210" duration="5099000" />
+      <workItem from="1561542975672" duration="4470000" />
+      <workItem from="1561626711803" duration="9075000" />
+      <workItem from="1561638358606" duration="25000" />
+      <workItem from="1561716617091" duration="8132000" />
+      <workItem from="1561729328441" duration="59000" />
+      <workItem from="1561966011366" duration="16564000" />
+      <workItem from="1562054551890" duration="5914000" />
+      <workItem from="1562062058464" duration="624000" />
+      <workItem from="1562063043369" duration="2713000" />
+      <workItem from="1562073070101" duration="109000" />
+      <workItem from="1562144043981" duration="693000" />
+      <workItem from="1562144821605" duration="4733000" />
+      <workItem from="1562154902548" duration="1533000" />
+      <workItem from="1562249905641" duration="1296000" />
+      <workItem from="1562311850358" duration="4071000" />
+      <workItem from="1562439663680" duration="868000" />
+      <workItem from="1562449571376" duration="185000" />
+      <workItem from="1562582234354" duration="203000" />
+      <workItem from="1562584072015" duration="388000" />
+      <workItem from="1562876006360" duration="52000" />
+      <workItem from="1562933831674" duration="6018000" />
+      <workItem from="1562940180168" duration="4427000" />
+      <workItem from="1562947141591" duration="4804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="145658000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13113007" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49842766" weight="0.21991247" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.49307036" side_tool="true" visible="true" weight="0.3434453" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.50692964" visible="true" weight="0.3434453" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/staj_proje_son$main.coverage" NAME="main Coverage Results" MODIFIED="1562449604781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru8.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru10.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru12.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru14.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru16.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru17.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru18.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru5.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru0.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru19.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru11.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru13.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru9.png" />
+    <entry file="file://$PROJECT_DIR$/mini_alanlar/soru1.png" />
+    <entry file="file://$PROJECT_DIR$/cevaplar/cevap0.png" />
+    <entry file="file://$PROJECT_DIR$/cevaplar/cevap1.png" />
+    <entry file="file://$PROJECT_DIR$/cevaplar/cevap2.png" />
+    <entry file="file://$PROJECT_DIR$/cevaplar/cevap3.png" />
+    <entry file="file://$PROJECT_DIR$/cevaplar/cevap4.png" />
+    <entry file="file://$PROJECT_DIR$/ilk_harf.png" />
+    <entry file="file://$PROJECT_DIR$/adi_soyadi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_area.png" />
+    <entry file="file://$PROJECT_DIR$/thres.png" />
+    <entry file="file://$PROJECT_DIR$/optik3.png" />
+    <entry file="file://$PROJECT_DIR$/optik2.png" />
+    <entry file="file://$PROJECT_DIR$/area.png" />
+    <entry file="file://$PROJECT_DIR$/ogrenci_no.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Untitled-1.py" />
+    <entry file="file://$PROJECT_DIR$/cevapkagidi/cevapkgdgrup.png" />
+    <entry file="file://$PROJECT_DIR$/cevap_kagidi.png" />
+    <entry file="file://$PROJECT_DIR$/baskaogrenci1.png" />
+    <entry file="file://$PROJECT_DIR$/baskaogrenci2.png" />
+    <entry file="file://$PROJECT_DIR$/rotate.png" />
+    <entry file="file://$PROJECT_DIR$/cevapkagidi/baskaogrenci2.png" />
+    <entry file="file://$PROJECT_DIR$/cevapkagidi/D.png" />
+    <entry file="file://$PROJECT_DIR$/D.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="366" selection-start-column="356" selection-end-column="366" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cevapkagidi/B.png" />
+    <entry file="file://$PROJECT_DIR$/B.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cevapkagidi/C.png" />
+    <entry file="file://$PROJECT_DIR$/sonuclar.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/worksheet/worksheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ogrenciler/baskaogrenci2 - Kopya (3).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cevaplar.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cevapkagidi/A.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ogrenciler/isagirisken.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ogrenciler/hatalioptik.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ogrenciler/baskaogrenci2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/siklar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#2365#2731#0" />
+            <element signature="e#3388#3743#0" />
+            <element signature="e#3752#4739#0" />
+            <element signature="e#4778#5312#0" />
+            <element signature="e#5349#5624#0" />
+            <element signature="e#5666#5958#0" />
+            <element signature="e#6530#6816#0" />
+            <element signature="e#6848#7187#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
