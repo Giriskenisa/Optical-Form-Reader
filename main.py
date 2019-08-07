@@ -12,7 +12,7 @@ parser.add_argument('--cevapkagidi', type=str, help='Cevap Kağıtlarının oldu
 parser.add_argument('--sonuckayit',type=str,help='Sonuçların txt olarak kaydedileceği yer...')
 parser.add_argument('--sonucisim',type=str,help='Oluşturulacak excel dosyasının adı...')
 parser.add_argument('--grup',type=int,help='Grup varmı yok mu ? ...')
-parser.add_argument('--yanlisdogru',type=int,help='Grup varmı yok mu ? ...',default=100)
+parser.add_argument('--yanlisdogru',type=int,help='Kaç yanlış bir doğruyu götürsün? ...',default=100)
 parser.add_argument('--puanlama',type=int,help='Sınav Kaç Üzerinden Hesaplansın?...',default=100)
 args = parser.parse_args()
 
